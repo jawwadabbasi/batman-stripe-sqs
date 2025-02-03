@@ -1,0 +1,4 @@
+requests
+jsonpickle
+timedelta
+boto3
