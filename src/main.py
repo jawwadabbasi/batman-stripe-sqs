@@ -1,5 +1,5 @@
 # Built with ingenuity,
-# by Jawwad Abbasi (jawwad@kodelle.com)
+# by Jawwad Abbasi (jawwad@omnitryx.ca)
 
 # Initiates a AWS SQS consumer to long poll a designated queue
 # and process accordingly.
